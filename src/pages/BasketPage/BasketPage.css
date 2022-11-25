@@ -1,0 +1,19 @@
+.card-cont {
+    background-color: #EFF5F8;
+    border-radius: 12px;
+    padding: 15px;
+}
+
+.film-card {
+    padding: 12px;
+    margin: 5px;
+    background-color: #fff;
+    border-radius: 12px;
+    font-size: 24px;
+}
+
+.basket-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}

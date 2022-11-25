@@ -1,0 +1,37 @@
+.list-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.list-page__title {
+    font-size: 34px;
+    margin-bottom: 50px;
+}
+
+.list-page ul li {
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.list-page ul {
+    align-items: center;
+    font-size: 18px;
+}
+
+.poster {
+    width:150px;
+    border-radius: 12px;
+    margin-bottom: 35px;
+}
+
+.film-card{
+    background-color: #EFF5F8;
+    padding: 3rem;
+    border-radius: 12px;
+}
